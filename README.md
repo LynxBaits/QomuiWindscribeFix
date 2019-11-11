@@ -15,4 +15,4 @@ Download update.py from above.
 Replace the update.py file in the directory you wrote down, with the one you downloaded.
 
 **You're done.**
-Note: You may still need to reboot the computer for the file to do into affect.
+Note: You may still need to reboot the computer for the file to go into affect.
